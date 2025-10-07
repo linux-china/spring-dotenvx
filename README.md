@@ -1,6 +1,8 @@
 Spring dotenvx
 ========================
 
+Provides a Dotenvx property source for Spring
+
 # Get started
 
 Add `spring-dotenvx` to pom.xml:
@@ -35,3 +37,8 @@ example.name=${EXAMPLE_NAME}
 # Credits
 
 * spring-dotenv: https://github.com/paulschwarz/spring-dotenv
+
+# References
+
+* [dotenvx-rs](https://github.com/linux-china/dotenvx-rs): Dotenvx Rust SDK/CLI: make .env safe
+* [dotenvx JetBrains Plugin](https://plugins.jetbrains.com/plugin/28148-dotenvx): Dotenvx plugin for JetBrains IDE 
