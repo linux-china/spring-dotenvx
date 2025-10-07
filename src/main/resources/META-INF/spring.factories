@@ -1,0 +1,1 @@
+org.springframework.boot.SpringApplicationRunListener=org.mvnsearch.dotenvx.springboot.DotenvxApplicationRunListener
